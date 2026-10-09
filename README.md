@@ -60,3 +60,4 @@ php artisan key:generate
 ```bash
 php artisan migrate --seed
 ```
+
